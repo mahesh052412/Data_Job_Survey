@@ -5,3 +5,10 @@ Data jobs, also known as data roles, which refer to positions that involve worki
 Through various held and recorded from different platforms we have collected set of data on Data Jobs.
 ### Data Cleaning
 With Power BI - Power Query Editor, we have transform and cleansed the data.
+## Analysis:
+- Count and Average age of total survey taken by participants
+- Ethnicity by count
+- Count of average salary based on job titles
+- Survey taken based on sex
+- Count of favorite programming language among jobs
+- Avergae count of people statisfied by current job position 
