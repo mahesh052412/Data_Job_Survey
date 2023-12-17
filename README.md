@@ -11,4 +11,7 @@ With Power BI - Power Query Editor, we have transform and cleansed the data.
 - Count of average salary based on job titles
 - Survey taken based on sex
 - Count of favorite programming language among jobs
-- Avergae count of people statisfied by current job position 
+- Avergae count of people statisfied by current job position
+- Avergae count of people statisfied by current job salary
+
+  
