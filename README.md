@@ -12,6 +12,4 @@ With Power BI - Power Query Editor, we have transform and cleansed the data.
 - Survey taken based on sex
 - Count of favorite programming language among jobs
 - Avergae count of people statisfied by current job position
-- Avergae count of people statisfied by current job salary
-
-  
+- Avergae count of people statisfied by current job salar
